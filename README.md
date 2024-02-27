@@ -4,8 +4,6 @@
 ## Nama : Riski Pratama
 ## Program : IBM Advance AI
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
 Prompt Engineering adalah seni merancang prompt yang efektif untuk model bahasa besar (LLM) seperti Bard dan ChatGPT. Prompt yang baik dapat membantu LLM menghasilkan output yang lebih akurat, relevan, dan sesuai dengan keinginan pengguna.
 
 Berikut beberapa poin penting dari materi "The Art of Prompt Engineering":
@@ -38,4 +36,4 @@ Meningkatkan kemampuan LLM untuk menghasilkan berbagai jenis output kreatif.
 Membangun aplikasi LLM yang lebih canggih dan bermanfaat.
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
