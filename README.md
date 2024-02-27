@@ -1,3 +1,4 @@
+# oke
 Prompt Engineering adalah seni merancang prompt yang efektif untuk model bahasa besar (LLM) seperti Bard dan ChatGPT. Prompt yang baik dapat membantu LLM menghasilkan output yang lebih akurat, relevan, dan sesuai dengan keinginan pengguna.
 
 Berikut beberapa poin penting dari materi "The Art of Prompt Engineering":
