@@ -1,7 +1,7 @@
 # The Art of Prompt Engineering
 # Author : Cognitive Class AI
 ## Mentee Info
-## [![Generic badge](https://img.shields.io/badge/<Riski>-<Pratama>-<COLOR>.svg)](https://shields.io/)
+## [![Generic badge](https://img.shields.io/badge/Nama : Riski Pratama-<COLOR>.svg)](https://shields.io/)
 Program : IBM Advance AI
 
 Prompt Engineering adalah seni merancang prompt yang efektif untuk model bahasa besar (LLM) seperti Bard dan ChatGPT. Prompt yang baik dapat membantu LLM menghasilkan output yang lebih akurat, relevan, dan sesuai dengan keinginan pengguna.
@@ -34,3 +34,5 @@ Prompt Engineering adalah bidang yang berkembang pesat dengan banyak potensi.
 Di masa depan, Prompt Engineering dapat digunakan untuk:
 Meningkatkan kemampuan LLM untuk menghasilkan berbagai jenis output kreatif.
 Membangun aplikasi LLM yang lebih canggih dan bermanfaat.
+
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
