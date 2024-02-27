@@ -38,3 +38,4 @@ Meningkatkan kemampuan LLM untuk menghasilkan berbagai jenis output kreatif.
 Membangun aplikasi LLM yang lebih canggih dan bermanfaat.
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
