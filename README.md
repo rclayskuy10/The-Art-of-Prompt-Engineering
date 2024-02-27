@@ -20,7 +20,7 @@ Prompt Engineering adalah seni merancang prompt yang efektif untuk model bahasa 
 
 Berikut beberapa poin penting dari materi "The Art of Prompt Engineering":
 
-1. Pentingnya Prompt:
+<h3>1. Pentingnya Prompt:</h3>
 Prompt adalah instruksi yang diberikan kepada LLM untuk membantunya memahami apa yang diharapkan pengguna.
 Prompt yang baik dapat membantu LLM menghasilkan output yang lebih akurat, relevan, dan sesuai dengan keinginan pengguna.
 
