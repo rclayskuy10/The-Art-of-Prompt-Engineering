@@ -1,7 +1,7 @@
 # The Art of Prompt Engineering
 # Author : Cognitive Class AI
 ## Mentee Info
-Nama    : Riski Pratama
+## Nama    : Riski Pratama
 Program : IBM Advance AI
 
 Prompt Engineering adalah seni merancang prompt yang efektif untuk model bahasa besar (LLM) seperti Bard dan ChatGPT. Prompt yang baik dapat membantu LLM menghasilkan output yang lebih akurat, relevan, dan sesuai dengan keinginan pengguna.
