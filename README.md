@@ -1,7 +1,7 @@
 # The Art of Prompt Engineering
 # Author : Cognitive Class AI
-## Mentee Info
-## Nama : Riski Pratama Program : IBM Advance AI
+# Mentee Info
+# Program : IBM Advance AI
 
 <h1 align="center">Hi 👋, I'm Riski Pratama</h1>
 <h3 align="center">The Art of Prompt Engineering</h3>
