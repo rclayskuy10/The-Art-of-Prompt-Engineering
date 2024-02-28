@@ -4,7 +4,7 @@
 # Program : IBM Advance AI
 
 <h1 align="center">Hi 👋, I'm Riski Pratama</h1>
-<h3 align="center">Computer Science, Cyber security, AI, Machine Learning</h3>
+<h3 align="center">Computer Science, Cyber security, AI, Machine Learning, Robotic</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
